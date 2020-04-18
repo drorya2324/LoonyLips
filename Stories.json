@@ -1,0 +1,26 @@
+[
+	{
+		"plugin_words":["an adj","a food","a thing","an animal","another adj","a place","one last adj"],
+		"story":"Recipe for a %s dish of %s:\n1 cup of %s, and 2 spoons of %s's oil obtained from a %s %s.\nMix the two ingrediants together, until you receive a %s mixture\nEnjoy your meal!"
+	},
+	{
+		"plugin_words":["a thing","an adj" ,"a noun" ,"another adj" ,"the most adj (adj+iest)" , "a verb+ing"],
+		"story":"Did you know? a %s is the most %s %s in the world!\nIn fact, it is so %s, that even the %s scientists haven't figured out how it's capable of %s yet."
+	},
+	{
+		"plugin_words":["a gender","a name","a noun","plural nouns","past verb (verb+ed)","another name","an adj","a different noun"],
+		"story":"There once was a %s names %s, who destined to be a %s\nTheir %s were %s by %s who gave them a %s %s."
+	},
+	{
+		"plugin_words":["a living thing","a name","a food","an adj","another food"],
+		"story":"Once upon a time there was a %s named %s, who loved eating %s.\nOne day they decided to try something new, and ate a %s %s."
+	},
+	{
+		"plugin_words":["a name","an adj","another adj","an animal","a verb+ing","a thing","last adj, or a feeling"],
+		"story":"One day, %s decided to travel to a %s land.\nThere, they found a %s %s %s a %s.\nIt was a %s day."
+	},
+	{
+		"plugin_words":["a living thing","a feeling","a verb+ing","a place","another verb+ing","things","an adj"],
+		"story":"When the %s twins were born, everyone were %s.\nAs the twins were %s to their %s, there was a %s %s rituals taking place aroud them.\nThat was a %s day to be born at."
+	}
+	]
